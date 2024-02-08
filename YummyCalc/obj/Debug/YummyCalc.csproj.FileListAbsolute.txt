@@ -1,0 +1,11 @@
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\bin\Debug\YummyCalc.exe.config
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\bin\Debug\YummyCalc.exe
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\bin\Debug\YummyCalc.pdb
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\obj\Debug\YummyCalc.csproj.AssemblyReference.cache
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\obj\Debug\YummyCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\obj\Debug\YummyCalc.Form1.resources
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\obj\Debug\YummyCalc.Properties.Resources.resources
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\obj\Debug\YummyCalc.csproj.GenerateResource.cache
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\obj\Debug\YummyCalc.csproj.CoreCompileInputs.cache
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\obj\Debug\YummyCalc.exe
+C:\Users\Yetkin\source\repos\YummyCalc\YummyCalc\obj\Debug\YummyCalc.pdb
